@@ -11,14 +11,14 @@ var example7 = a < b;
 
 var c = 10;
 var d = 11;
-if (c < d) { 
+if (c < d) {
   alert("C is less than D");
   console.log('Hello World');
 }
 
 var age = 10;
-if (age >=18) {
-alert("You acn vote!");
+if (age >= 18) {
+  alert("You acn vote!");
 }
 else {
   alert("You are too young to note");
@@ -40,4 +40,9 @@ else {
 }
 var username = prompt("What is your name?");
 alert("Welcome" + username);
+
+var a = promt("What the width of the rectangle?");
+var a = promt("What the width of the rectangle?");
+alert(a + b);
+
 
