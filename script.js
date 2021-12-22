@@ -11,6 +11,8 @@ var example7 = a < b;
 
 var c = 10;
 var d = 11;
-if (c < d) {
+if (c < d) { 
   alert("C is less than D")
+  console.log('Hello World');
 }
+
