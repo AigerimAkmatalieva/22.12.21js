@@ -16,3 +16,11 @@ if (c < d) {
   console.log('Hello World');
 }
 
+var age = 10;
+if (age >=18) {
+alert("You acn vote!");
+}
+else {
+  alert("You are too young to note");
+}
+
