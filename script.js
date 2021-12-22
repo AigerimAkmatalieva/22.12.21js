@@ -32,3 +32,12 @@ else {
   alert("Light is off");
 }
 
+if (confirm("Do you have a car?")) {
+  alert("then this website is not for you!")
+}
+else {
+  alert("Welcome fellow pedestrian!")
+}
+var username = prompt("What is your name?");
+alert("Welcome" + username);
+
