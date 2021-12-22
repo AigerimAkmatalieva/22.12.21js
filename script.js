@@ -8,3 +8,9 @@ var example6 = 10 !== 10; //not equals
 var a = 5;
 var b = 10;
 var example7 = a < b;
+
+var c = 10;
+var d = 11;
+if (c < d) {
+  alert("C is less than D")
+}
