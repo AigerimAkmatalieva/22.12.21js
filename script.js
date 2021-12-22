@@ -12,7 +12,7 @@ var example7 = a < b;
 var c = 10;
 var d = 11;
 if (c < d) { 
-  alert("C is less than D")
+  alert("C is less than D");
   console.log('Hello World');
 }
 
@@ -22,5 +22,13 @@ alert("You acn vote!");
 }
 else {
   alert("You are too young to note");
+}
+
+var lightSwitch = 1;
+if (lightSwitch) {
+  alert("Light is on");
+}
+else {
+  alert("Light is off");
 }
 
